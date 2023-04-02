@@ -1,1 +1,1 @@
-# Programa hola_mundo.c
+# Este programa imprime "Hola mundo"
